@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "Test",
+      "excerpt": "TEst",
+      "content": "Test",
+      "category": "Staatlich",
+      "author": "test",
+      "image": "📰",
+      "imageUrl": "/uploads/b7beef53-7923-4f03-8d99-d8d3d97a895f.png",
+      "featured": true,
+      "id": "549d3556-c1a9-4329-959b-44851bb16608",
+      "publishedAt": "2026-09-10T16:04:25.882Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "c696de10-3db4-432d-8090-27fe0166a374",
+      "username": "admin",
+      "displayName": "AC News Redaktion",
+      "password": "fdd59783b465346db596a1bfeaecd2ab:21a38ccffc0dee47affb2e1944bfb749c02ff6f72c95b7d906f4607e9f5895a1380213dd5e27fefda9a62c3a0e4f888da1ad164a099d645c8bda41eb9a6940f3",
+      "createdAt": "2026-09-10T15:27:55.420Z",
+      "role": "admin"
+    },
+    {
+      "id": "6963be86-5933-462d-a964-2a2596387e18",
+      "username": "Kxy",
+      "displayName": "Kxy",
+      "role": "admin",
+      "password": "d5f131b876705c20f8495b58a9a13c3a:887bf7af28de40c31e2416ba3d2e61e6e209f970762901db7cc174a11cdc1a86857ef5de6e42881714d74fd89e38cf2eae2b9683e0ecf612356e1f41f1cfd1a2",
+      "createdAt": "2026-09-10T15:47:52.507Z"
+    }
+  ]
+}
